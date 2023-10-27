@@ -49,7 +49,6 @@ Raw data is in `data/` and outputs will be saved to `results/`.
 
 ## Contributors 
 
-- John Doe
-- Jane Doe
+- Sejyoti Chakraborty
 
 Please contact us with any questions!
